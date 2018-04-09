@@ -1,0 +1,31 @@
+<Document>
+    <CstmrCdtTrfInitn>
+        <GrpHdr>
+            <MsgId></MsgId>
+            <CreDtTm></CreDtTm>
+            <NbOfTxs></NbOfTxs>
+            <CtrlSum></CtrlSum>
+            <InitgPty>
+                <Nm></Nm>
+            </InitgPty>
+        </GrpHdr>
+        <PmtInf>
+            <whatever>test</whatever>
+        </PmtInf>
+        <PmtInf>
+            <whatever>test1</whatever>
+        </PmtInf>
+        <PmtInf>
+            <whatever>test2</whatever>
+        </PmtInf>
+        <PmtInf>
+            <whatever>test3</whatever>
+        </PmtInf>
+        <PmtInf>
+            <whatever>test4</whatever>
+        </PmtInf>
+        <PmtInf>
+            <whatever>test5</whatever>
+        </PmtInf>
+    </CstmrCdtTrfInitn>
+</Document>
